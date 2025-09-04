@@ -32,6 +32,13 @@ A aplicação permite que o usuário insira os nomes de seus amigos e realize de
 
 ---
 
+## 🌐 Acesse o projeto
+
+[🔗 Abrir Challenge Amigo Secreto](https://challenge-amigo-secreto-indol-theta.vercel.app/)
+
+
+---
+
 ## 📄 Licença</h2> Este projeto foi desenvolvido para fins de estudo no programa **ONE + Alura**.
 
 <p align="center"> <br><br>
